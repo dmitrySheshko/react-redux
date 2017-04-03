@@ -1,0 +1,26 @@
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import '~bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+@import './colors';
+
+html, body {
+  background-color: $white;
+
+  .pages {
+    padding: 0 15px;
+
+    .users-menu {
+      min-height: 105px;
+      margin-right: 30px;
+    }
+
+    .users-list {
+      overflow: hidden;
+    }
+
+    .home {
+      background: url('../images/example.png') no-repeat 0 0;
+      min-height: 105px;
+      padding-left: 150px;
+    }
+  }
+}

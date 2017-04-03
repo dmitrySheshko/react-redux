@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "name":"home",
+    "order":1,
+    "url":"/",
+    "title":"Home",
+    "children":[]
+  },
+  {
+    "id":2,
+    "name":"users",
+    "order":2,
+    "url":"/users",
+    "title":"Users List",
+    "children":[]
+  }
+]

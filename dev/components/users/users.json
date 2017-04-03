@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "firstName":"Isabel",
+    "lastName":"Donaldson",
+    "avatar":"/images/users/user_1.png",
+    "address":"1018 Elk Avenue"
+  },
+  {
+    "id":2,
+    "firstName":"Wilbur",
+    "lastName":"Newhall",
+    "avatar":"/images/users/user_2.png",
+    "address":"2391 Cessna Drive"
+  },
+  {
+    "id":3,
+    "firstName":"Wilbur2",
+    "lastName":"Newhall3",
+    "avatar":"/images/users/user_3.png",
+    "address":"234 Drive"
+  }
+]

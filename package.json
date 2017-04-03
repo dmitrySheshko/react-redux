@@ -1,14 +1,31 @@
 {
-  "name": "dyn-rout",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-redux",
+  "version": "0.0.1",
+  "description": "An example project with using react, redux, react-router v.4, webpack and a system of dynamic uploading modules.",
   "main": "index.js",
   "scripts": {
-    "dev": "node_modules/.bin/webpack-dev-server --env.delay 1000",
-    "build": "export NODE_ENV=production && node_modules/.bin/webpack --env.delay 1000"
+    "dev": "node_modules/.bin/webpack-dev-server --env.delay 1000"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrySheshko/react-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux",
+    "react-router",
+    "react-router v.4",
+    "react-router 4",
+    "webpack",
+    "dynamic uploading"
+  ],
+  "author": "Dmitry Sheshko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrySheshko/react-redux/issues"
+  },
+  "homepage": "https://github.com/dmitrySheshko/react-redux#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",

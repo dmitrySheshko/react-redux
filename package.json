@@ -20,7 +20,7 @@
     "webpack",
     "dynamic uploading"
   ],
-  "author": "Dmitry Sheshko",
+  "author": "Dmitry Sheshko, dm.sheshko@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmitrySheshko/react-redux/issues"
